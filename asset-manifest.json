@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/laundry/static/css/main.cb8d209c.chunk.css",
-    "main.js": "/laundry/static/js/main.1a19008a.chunk.js",
+    "main.js": "/laundry/static/js/main.a91167cb.chunk.js",
     "runtime-main.js": "/laundry/static/js/runtime-main.643b71b9.js",
     "static/js/2.b907b6fd.chunk.js": "/laundry/static/js/2.b907b6fd.chunk.js",
     "index.html": "/laundry/index.html",
-    "precache-manifest.0ed04cf36df2768adc1663a338fc1e44.js": "/laundry/precache-manifest.0ed04cf36df2768adc1663a338fc1e44.js",
+    "precache-manifest.13c4114ccc464aceeca16566b19b00dc.js": "/laundry/precache-manifest.13c4114ccc464aceeca16566b19b00dc.js",
     "service-worker.js": "/laundry/service-worker.js",
     "static/js/2.b907b6fd.chunk.js.LICENSE.txt": "/laundry/static/js/2.b907b6fd.chunk.js.LICENSE.txt",
     "static/media/account.svg": "/laundry/static/media/account.ca6f7092.svg",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.643b71b9.js",
     "static/js/2.b907b6fd.chunk.js",
     "static/css/main.cb8d209c.chunk.css",
-    "static/js/main.1a19008a.chunk.js"
+    "static/js/main.a91167cb.chunk.js"
   ]
 }
