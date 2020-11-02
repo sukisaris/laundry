@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/laundry/static/css/main.cb8d209c.chunk.css",
+    "main.js": "/laundry/static/js/main.1a19008a.chunk.js",
+    "runtime-main.js": "/laundry/static/js/runtime-main.643b71b9.js",
+    "static/js/2.b907b6fd.chunk.js": "/laundry/static/js/2.b907b6fd.chunk.js",
+    "index.html": "/laundry/index.html",
+    "precache-manifest.0ed04cf36df2768adc1663a338fc1e44.js": "/laundry/precache-manifest.0ed04cf36df2768adc1663a338fc1e44.js",
+    "service-worker.js": "/laundry/service-worker.js",
+    "static/js/2.b907b6fd.chunk.js.LICENSE.txt": "/laundry/static/js/2.b907b6fd.chunk.js.LICENSE.txt",
+    "static/media/account.svg": "/laundry/static/media/account.ca6f7092.svg",
+    "static/media/add-user.svg": "/laundry/static/media/add-user.0e54ade9.svg",
+    "static/media/dashboard.svg": "/laundry/static/media/dashboard.b0eb8ad7.svg",
+    "static/media/shirt.svg": "/laundry/static/media/shirt.520185f9.svg",
+    "static/media/shirt2.svg": "/laundry/static/media/shirt2.095f317c.svg",
+    "static/media/shirts.svg": "/laundry/static/media/shirts.73e4690a.svg",
+    "static/media/transaction.svg": "/laundry/static/media/transaction.5e0e6de6.svg",
+    "static/media/user.svg": "/laundry/static/media/user.b1c2b6a0.svg",
+    "static/media/wallet.svg": "/laundry/static/media/wallet.193e8fae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.643b71b9.js",
+    "static/js/2.b907b6fd.chunk.js",
+    "static/css/main.cb8d209c.chunk.css",
+    "static/js/main.1a19008a.chunk.js"
+  ]
+}
